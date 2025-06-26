@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudyBuddy</string>
+    <string name="predmet">Предмет</string>
+    <string name="datum">Датум</string>
+    <string name="vreme">Време</string>
+    <string name="beleshki">Белешки</string>
+    <string name="otkazhi">Откажи</string>
+    <string name="zachuvaj">Зачувај</string>
+    <string name="create_new_plan">Create new plan</string>
+</resources>
